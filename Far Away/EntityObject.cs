@@ -9,6 +9,7 @@ namespace Far_Away
 {
     class EntityObject : GObject
     {
+        private Point velocity;
     }
 
     class Creature : EntityObject

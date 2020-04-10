@@ -10,7 +10,6 @@ namespace Far_Away
     class GObject
     {
         private Point position;
-        private Point velocity;
         private float mass;
     }
 }
