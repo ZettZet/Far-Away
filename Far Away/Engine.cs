@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Far_Away
 {
-    class SolidObject
+    class Engine
     {
+        Object[] Objects;
+        static void Run(Physics physic)
+        {
+            
+        }
+    }
+
+    class Physics
+    {
+
     }
 }
